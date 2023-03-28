@@ -13,17 +13,19 @@ Upskill supports prose.io to edit markdown. Just click on "Add new" or "Edit" ne
  - Step 1: Make sure the subject is on the subjects page under [home](upskill.therishabhsingh.com)
  	- If you are adding a subject you must make a new subject page (subject/subject.md) and link it under Home. Here is the template code the subject page must follow.
     
-    	
-	# Subject Name
+```	
+# Subject Name
     This is the subject page for (subject name)
         
-    ## Lessons
+   ## Lessons'
     
     1. [Lesson 1] (Lesson.md)
+    
+```
 
 - Step 2: Add a new page for your lesson (subject/lesson.md). Copy paste the following template. For citations please list and link all your resources, for in text citations use [anchors in markdown](https://stackoverflow.com/questions/5319754/cross-reference-named-anchor-in-markdown).
 
-
+```
     # Article Name
     
     ## What is it?
@@ -36,8 +38,8 @@ Upskill supports prose.io to edit markdown. Just click on "Add new" or "Edit" ne
     
     ## Why should I do it?
     
-	### Citations
+    ### Citations
     
     
-    
+```    
 - Step 3: Commit it and pull request your changes to the main cybertheory/upskill repository. Make sure to include a lot of detail to each section and multimedia information (videos and pictures when needed).
