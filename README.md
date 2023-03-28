@@ -14,3 +14,4 @@ A list of all our subjects:
   - [C++](wiki/coding/CPlusPlus/CPlusPlus.md)
   - [Assembly](wiki/coding/Assembly/Assembly.md)
 - [Poker](wiki/poker/poker.md)
+- [Chess](wiki/chess/chess.md)
