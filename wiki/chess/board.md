@@ -1,5 +1,5 @@
 # Chess Board
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Chess_l45.svg/38px-Chess_l45.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Chess_board_opening_staunton.jpg/450px-Chess_board_opening_staunton.jpg)
 
 ## What is it?
 The chess board is the space on top the game of chess is played.
