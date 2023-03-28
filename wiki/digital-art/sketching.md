@@ -1,4 +1,4 @@
-# Article Name
+# Sketching
 
 ## What is it?
 
@@ -10,4 +10,4 @@
 
 ## Why should I do it?
 
-## Citations 
+## Citations
