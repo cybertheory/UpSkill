@@ -4,7 +4,7 @@ Concepts should be straightforward and easy to learn. UpSkill takes a what, wher
 ## Subjects
 A list of all our subjects:
 
-- [Digital Art](wiki/digital-art.md)
+- [Digital Art](wiki/digital-art/digital-art.md)
 
 ## Contribute
 Check out our [guide](wiki/tutorial.md) to learn how to add an article
