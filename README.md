@@ -10,7 +10,7 @@ A list of all our subjects:
 - [Digital Art](wiki/digital-art/digital-art.md)
 - Coding
   - [Python](wiki/coding/python/python.md)
-  - [Java](wiki/coding/python/Java.md)
-  - [C++](wiki/coding/python/Cplusplus.md)
-  - [Assembly](wiki/coding/python/Assembly.md)
+  - [Java](wiki/coding/Java/Java.md)
+  - [C++](wiki/coding/Cplusplus/Cplusplus.md)
+  - [Assembly](wiki/coding/Assembly/Assembly.md)
 - [Poker](wiki/poker/poker.md)
