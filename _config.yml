@@ -5,7 +5,7 @@ remote_theme: Drassil/git-wiki-theme@master
 description: Opensourced community textbook. UpSkill with distilled and immediately applicable concepts.
 show_downloads: true
 show_wiki_pages: true
-show_wiki_pages_limit: 0
+show_wiki_pages_limit: 10
 paginate: 5
 paginate_path: "assets/blog/page:num"
 blog_feature: false
