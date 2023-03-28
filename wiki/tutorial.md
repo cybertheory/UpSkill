@@ -17,9 +17,9 @@ Upskill supports prose.io to edit markdown. Just click on "Add new" or "Edit" ne
 # Subject Name
     This is the subject page for (subject name)
         
-   ## Lessons'
+## Lessons
     
-    1. [Lesson 1] (Lesson.md)
+	- 1. [Lesson 1] (Lesson.md)
     
 ```
 
@@ -38,8 +38,7 @@ Upskill supports prose.io to edit markdown. Just click on "Add new" or "Edit" ne
     
     ## Why should I do it?
     
-    ### Citations
-    
+    ### Citations 
     
 ```    
 - Step 3: Commit it and pull request your changes to the main cybertheory/upskill repository. Make sure to include a lot of detail to each section and multimedia information (videos and pictures when needed).
