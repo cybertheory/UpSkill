@@ -10,5 +10,4 @@ A list of all our subjects:
 - [Digital Art](wiki/digital-art/digital-art.md)
 - Coding
   - [Python](wiki/coding/python/python.md)
-- Poker
-  - [Poker](wiki/poker/poker.md)
+- [Poker](wiki/Poker/poker.md)
