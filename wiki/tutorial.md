@@ -11,7 +11,7 @@ Upskill supports prose.io to edit markdown. Just click on "Add new" or "Edit" ne
 ## Add a new article
 
  - Step 1: Make sure the subject is on the subjects page under [home](upskill.therishabhsingh.com)
- 	- If you are adding a subject you must make a new subject page (subject/subject.md) and link it under Home. Here is the template code the subject page must follow.
+     - If you are adding a subject you must make a new subject page (subject/subject.md) and link it under Home. Here is the template code the subject page must follow.
     
 ```	
 # Subject Name
