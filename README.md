@@ -15,4 +15,3 @@ A list of all our subjects:
   - [Assembly](wiki/coding/Assembly/Assembly.md)
 - [Poker](wiki/poker/poker.md)
 - [Chess](wiki/chess/chess.md)
-- [Alisonisamazing](wiki/alisonisamazing/alisonisamazing.md)
