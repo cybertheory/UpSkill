@@ -4,11 +4,10 @@
 
 The center 4 squares of the chess board present the most possible moves for any piece, these oppurtunities decrease as you travel towards edges.
 
-More Options:
-![]({{site.baseurl}}/wiki/chess/Screen Shot 2023-03-28 at 2.32.32 PM.png)
+More Options         |  Less Options
+:-------------------------:|:-------------------------:
+![]({{site.baseurl}}/wiki/chess/Screen Shot 2023-03-28 at 2.32.32 PM.png)  |  ![]({{site.baseurl}}/wiki/chess/Screen Shot 2023-03-28 at 2.27.51 PM.png)
 
-Less Options:
-![]({{site.baseurl}}/wiki/chess/Screen Shot 2023-03-28 at 2.27.51 PM.png)
 
 ## When should I use it?
 
