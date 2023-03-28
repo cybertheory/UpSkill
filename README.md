@@ -11,4 +11,4 @@ A list of all our subjects:
 - Coding
   - [Python](wiki/coding/python/python.md)
 - Poker
-  - [Poker](wiki/Poker/poker.md)
+  - [Poker](wiki/poker/poker.md)
