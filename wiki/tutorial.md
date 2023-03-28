@@ -23,7 +23,7 @@ Upskill supports [Prose](Prose) to edit markdown. Just click on "Add new" or "Ed
     
 ```
 
-- Step 2: Add a new page for your lesson (subject/lesson.md). Copy paste the following template. For citations please list and link all your resources, for in text citations use [anchors in markdown](https://stackoverflow.com/questions/5319754/cross-reference-named-anchor-in-markdown).
+- Step 2: Add a new page for your lesson (subject/lesson.md). Copy paste the following template. For citations please list and link all your resources, for in text citations use [footnotes](https://github.com/luong-komorebi/Markdown-Tutorial#user-content-fn-1-1255084af989b14c5432f512f10f3b3a).
 
 ```
     # Article Name
