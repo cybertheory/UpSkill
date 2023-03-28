@@ -15,30 +15,29 @@ Upskill supports [Prose](Prose) to edit markdown. Just click on "Add new" or "Ed
     
 ```	
 # Subject Name
-    This is the subject page for [subject name](wiki/subject/subject.md)
+This is the subject page for [subject name](wiki/subject/subject.md)
         
 ## Lessons
-    
-	- 1. [Lesson 1] (wiki/subject/Lesson.md)
+1. [Lesson 1] (wiki/subject/Lesson.md)
     
 ```
 
 - Step 2: Add a new page for your lesson (subject/lesson.md). Copy paste the following template. For citations please list and link all your resources, for in text citations use [footnotes](https://github.com/luong-komorebi/Markdown-Tutorial#user-content-fn-1-1255084af989b14c5432f512f10f3b3a).
 
 ```
-    # Article Name
-    
-    ## What is it?
-    
-    ## When should I use it?
-    
-    ## Where should I use it?
-    
-    ## How do I do it?
-    
-    ## Why should I do it?
-    
-    ## Citations 
-    
+# Article Name
+
+## What is it?
+
+## When should I use it?
+
+## Where should I use it?
+
+## How do I do it?
+
+## Why should I do it?
+
+## Citations 
+
 ```    
 - Step 3: Commit it and pull request your changes to the main cybertheory/upskill repository. Make sure to include a lot of detail to each section and multimedia information (videos and pictures when needed).
