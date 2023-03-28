@@ -1,7 +1,6 @@
 # (string) Title of your wiki
 title: UpSkill
 demo_ver: 1.0.0
-baseurl: "/wiki"
 remote_theme: Drassil/git-wiki-theme@master
 description: UpSkill with distilled and immediately applicable concepts.
 show_downloads: true
