@@ -3,5 +3,5 @@
  
 ## Lessons
 
- - 1.1 Sketching
+ - 1.1 [Sketching](/wiki/digital-art/sketching.md)
     - Sketching Shapes
