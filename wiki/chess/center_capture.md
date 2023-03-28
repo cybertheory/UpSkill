@@ -4,9 +4,9 @@
 
 The center 4 squares of the chess board present the most possible moves for any piece, these oppurtunities decrease as you travel towards edges.
 
-![](https://imgur.com/a/38WhaBP)
+![]({{site.baseurl}}/Screen Shot 2023-03-28 at 2.27.51 PM.png)
 
-![](https://imgur.com/a/FsKljfC)
+![]({{site.baseurl}}/Screen Shot 2023-03-28 at 2.32.32 PM.png)
 
 ## When should I use it?
 
@@ -40,4 +40,4 @@ Capturing the center early or vying for its dominance, either gives you or denie
 
 If you are not doing it or aren't aiming to do it, you will be at a disadvantage.
 
-## Citations 
+## Citations
