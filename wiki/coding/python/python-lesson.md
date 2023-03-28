@@ -9,8 +9,8 @@ Use Python to automate tasks, such as injesting, parsing, or graphing data. Pyth
 ## Where should I use it?
 You should use Python when:
 
-  1. You want to automate a frequent task.
-  2. You want to automate processing a large amount of data.
+1. You want to automate a frequent task.
+2. You want to automate processing a large amount of data.
 
 ## How do I do it?
 *Under Construction*
@@ -18,4 +18,4 @@ You should use Python when:
 ## Why should I do it?
 Having a programming language like Python in your toolbelt is a great idea if you think you'll be handling lots of data or solving data heavy problems. It's a great way to bring complex ideas to life and bring new functionality to many users.
 
-### Citations 
+### Citations
