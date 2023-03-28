@@ -15,11 +15,11 @@ Upskill supports prose.io to edit markdown. Just click on "Add new" or "Edit" ne
     
 ```	
 # Subject Name
-    This is the subject page for (subject name)
+    This is the subject page for [subject name](wiki/subject/subject.md)
         
 ## Lessons
     
-	- 1. [Lesson 1] (Lesson.md)
+	- 1. [Lesson 1] (wiki/subject/Lesson.md)
     
 ```
 
