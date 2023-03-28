@@ -21,7 +21,7 @@ Upskill supports prose.io to edit markdown. Just click on "Add new" or "Edit" ne
          
     - 1. [Lesson 1] (Lesson.md)
 
-- Step 2: Add a new page for your lesson. Copy paste the following template.
+- Step 2: Add a new page for your lesson. Copy paste the following template. For citations please use [anchors in markdown](https://stackoverflow.com/questions/5319754/cross-reference-named-anchor-in-markdown).
 
 
     # Article Name
