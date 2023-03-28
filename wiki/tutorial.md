@@ -4,7 +4,7 @@ In order to add to the opensource textbook their are some steps to follow.
 
 Upskill uses [Github](github.com) to manage additions to the textbook's wiki.
 
-In order to edit and create articles one must know how [Github](github.com) works as well as how to type in markdown.
+In order to edit and create articles one must know how [Github](github.com) works as well as how to type in [markdown](https://github.com/luong-komorebi/Markdown-Tutorial).
 
 Upskill supports prose.io to edit markdown. Just click on "Add new" or "Edit" next to prose in the top left.
 
