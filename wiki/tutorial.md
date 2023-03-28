@@ -25,13 +25,19 @@ Upskill supports prose.io to edit markdown. Just click on "Add new" or "Edit" ne
 
 
     # Article Name
+    
     ## What is it?
+    
     ## When should I use it?
+    
     ## Where should I use it?
+    
     ## How do I do it?
+    
     ## Why should I do it?
+    
 	### Citations
     
     
+    
 - Step 3: Commit it and pull request your changes to the main cybertheory/upskill repository. Make sure to include a lot of detail to each section and multimedia information (videos and pictures when needed).
-   
