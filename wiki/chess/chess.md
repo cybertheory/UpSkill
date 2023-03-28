@@ -10,7 +10,7 @@ Here Upskill aims to provide a distillation of basic chess strategy.
 2. [Chess Pieces](https://www.chess.com/terms/chess-pieces)
 9. [Castling, En Passant, Promotion](https://www.chess.com/terms/special-chess-moves)
 11. Opening Strategy
-	- Capture The Center
+	- [Capture The Center](/center_capture.md)
     - Clear The Back File
     - Castle
 12. Midgame Strategy
