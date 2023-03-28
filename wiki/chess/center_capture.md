@@ -2,7 +2,7 @@
 
 ## What is it?
 
-The center 4 squares of the chess board present the most possible moves for any piece, these oppurtunities decrease traveling outwards.
+The center 4 squares of the chess board present the most possible moves for any piece, these oppurtunities decrease as you travel towards edges.
 
 ![](https://imgur.com/a/38WhaBP)
 
@@ -36,6 +36,8 @@ Either occupy or threaten center squares. Exchanges in the center should always 
 
 ## Why should I do it?
 
-Capturing the center early or vying for its dominance, either gives you or denies the opponent complete control of the board. If you are not doing it or aren't aiming to do it, you will be at a disadvantage.
+Capturing the center early or vying for its dominance, either gives you or denies the opponent more control of the board.
+
+If you are not doing it or aren't aiming to do it, you will be at a disadvantage.
 
 ## Citations 
