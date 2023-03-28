@@ -14,7 +14,7 @@ show_wiki_posts_limit: 5
 logo_url: assets/Untitled_design__5_-removebg-preview.png
 google_analytics:
 git_branch: gh-pages
-use_github_wiki: false
+use_github_wiki: true
 use_prose_io: true
 service: github
 search_engine : "js"
