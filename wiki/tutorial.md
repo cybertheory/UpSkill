@@ -6,7 +6,7 @@ Upskill uses [Github](github.com) to manage additions to the textbook's wiki.
 
 In order to edit and create articles one must know how [Github](github.com) works as well as how to type in [markdown](https://github.com/luong-komorebi/Markdown-Tutorial).
 
-Upskill supports prose.io to edit markdown. Just click on "Add new" or "Edit" next to prose in the top left.
+Upskill supports [Prose](Prose) to edit markdown. Just click on "Add new" or "Edit" next to prose in the top left.
 
 ## Add a new article
 
@@ -38,7 +38,7 @@ Upskill supports prose.io to edit markdown. Just click on "Add new" or "Edit" ne
     
     ## Why should I do it?
     
-    ### Citations 
+    ## Citations 
     
 ```    
 - Step 3: Commit it and pull request your changes to the main cybertheory/upskill repository. Make sure to include a lot of detail to each section and multimedia information (videos and pictures when needed).
