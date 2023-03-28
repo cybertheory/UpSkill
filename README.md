@@ -11,6 +11,6 @@ A list of all our subjects:
 - Coding
   - [Python](wiki/coding/python/python.md)
   - [Java](wiki/coding/Java/Java.md)
-  - [C++](wiki/coding/Cplusplus/Cplusplus.md)
+  - [C++](wiki/coding/CPlusPlus/CPlusPlus.md)
   - [Assembly](wiki/coding/Assembly/Assembly.md)
 - [Poker](wiki/poker/poker.md)
